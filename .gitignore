@@ -1,0 +1,23 @@
+
+# /
+/.DS_Store
+/*.pbxuser
+/build
+
+# /English.lproj/
+/English.lproj/.DS_Store
+
+# /English.lproj/iTerm Help/
+/English.lproj/iTerm Help/.DS_Store
+
+# /iTerm.xcodeproj/
+/iTerm.xcodeproj/*.pbxuser
+/iTerm.xcodeproj/*.mode1
+/iTerm.xcodeproj/*.mode1v3
+/iTerm.xcodeproj/.DS_Store
+
+# /zh_CN.lproj/iTerm Help/
+/zh_CN.lproj/iTerm Help/.DS_Store
+
+# /zh_TW.lproj/iTerm Help/
+/zh_TW.lproj/iTerm Help/.DS_Store
